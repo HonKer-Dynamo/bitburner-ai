@@ -72,7 +72,7 @@
     {
       "path": "resources/app/index.html",
       "sha256": "082fd8ae9dc1c76d6c17f3debe34bb4791d3ca3f6676108fdf637ac45d50d41f",
-      "originalSha256": "d96c153f1d22e7620a0e3a57710288831116bf6d13c42f08cc492f1d689d2ac4",
+      "originalSha256": "6FEB777BDB4154EA04E09711A135A25F447420A72045B173545B069F4305BE73",
       "previousSha256": [
         "47038a7d570d71cdb370272f65499962d3ba953f50d4c3e234d381bfcfb9f874"
       ]
@@ -80,7 +80,7 @@
     {
       "path": "resources/app/main.js",
       "sha256": "57eb7bc3e1f8d315953158c8d78bf4ad7b1d34a458bf433c599418b881f901ff",
-      "originalSha256": "685b6d681276458e6c51e45c6c618ab09336334c5f66a955faba52f5b7609f9f",
+      "originalSha256": "06303375882703DB6F061157CE6C5B0CE05BDD849419AAE74BA6DB4E05D0C200",
       "previousSha256": [
         "57eb7bc3e1f8d315953158c8d78bf4ad7b1d34a458bf433c599418b881f901ff"
       ]
