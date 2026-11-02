@@ -16,6 +16,10 @@
 - 会话历史与模型设置放在可折叠的侧边栏中；支持筛选历史会话。
 - 会话新建、切换、重命名、删除与撤销；聊天、上下文和草稿在重启后恢复。
 - API Key 通过 Electron `safeStorage` 加密保存；系统加密不可用时仅保留在进程内存。
+## 效果
+<img width="1264" height="1080" alt="AI助手界面" src="https://github.com/user-attachments/assets/eb8f6783-f7e1-4768-a47c-b1c0259f03b1" />
+
+<img width="1240" height="954" alt="AI助手对话" src="https://github.com/user-attachments/assets/31cf1181-ac17-44a9-9165-e4484dd4bb73" />
 
 ## 安装
 
