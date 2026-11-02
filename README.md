@@ -19,10 +19,10 @@
 
 ## 安装
 
-当前安装包适配 **Steam 3.0.1，并已安装 [s567901 的简体中文补丁](https://github.com/s567901/bitburner-zh-CN)** 的文件版本。安装器会校验原文件和游戏 bundle，文件不匹配时停止安装。
+当前安装包适配 **Steam 3.0.1**，并已安装 **[s567901 的简体中文补丁](https://github.com/HonKer-Dynamo/bitburner-zh-CN/releases/tag/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81)** 的文件版本。安装器会校验原文件和游戏 bundle，文件不匹配时停止安装。
 
 1. 完全退出游戏。
-2. 将本仓库 `package/` 文件夹里面的全部内容复制到 `bitburner.exe` 所在目录。
+2. 在当前页面的上方点击`Tag`后下载压缩包或者点击右边这个蓝色的 **[Releases](https://github.com/HonKer-Dynamo/bitburner-ai/releases)** 下载压缩包，然后解压后将所有的文件复制到 `bitburner.exe` 游戏所在目录。
 3. 双击 `安装AI助手.bat`，完成后重新启动游戏。
 4. 打开右下角“AI 助手”→“模型设置”，填写接口地址、模型名和 API Key，保存并测试连接。
 
